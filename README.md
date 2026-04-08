@@ -46,7 +46,7 @@ O usuário insere o nome de uma cidade no campo de busca. A aplicação realiza 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/nice1412e/Site-climaAPI
 ```
 
 2. Abra o arquivo `index.html` no navegador
@@ -54,7 +54,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 3. Insira sua API KEY no arquivo `script.js`:
 
 ```javascript
-const apiKey = "SUA_API_KEY_AQUI";
+const API_KEY = 'Cole sua chave aqui';
 ```
 
 ---
